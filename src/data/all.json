@@ -1,0 +1,4672 @@
+[
+    {
+        "seqName": "hCoV-19/Beijing/CNIC-DW01/2022|EPI_ISL_16070975|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16070975",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-7/2022|EPI_ISL_16127650|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127650",
+        "location": "Jiangsu",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-111/2022|EPI_ISL_16127651|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127651",
+        "location": "Jiangsu",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-172/2022|EPI_ISL_16127652|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127652",
+        "location": "Jiangsu",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-187/2022|EPI_ISL_16127653|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127653",
+        "location": "Jiangsu",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-188/2022|EPI_ISL_16127654|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127654",
+        "location": "Jiangsu",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-201/2022|EPI_ISL_16127655|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127655",
+        "location": "Jiangsu",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.1.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-108/2022|EPI_ISL_16127656|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127656",
+        "location": "Jiangsu",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.13",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-27/2022|EPI_ISL_16127657|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127657",
+        "location": "Jiangsu",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-345/2022|EPI_ISL_16127658|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127658",
+        "location": "Jiangsu",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-11/2022|EPI_ISL_16127659|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127659",
+        "location": "Jiangsu",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-93/2022|EPI_ISL_16127660|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127660",
+        "location": "Jiangsu",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-197/2022|EPI_ISL_16127661|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127661",
+        "location": "Jiangsu",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.2",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-10/2022|EPI_ISL_16127662|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127662",
+        "location": "Jiangsu",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Jiangsu/JITHCC-74/2022|EPI_ISL_16127663|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16127663",
+        "location": "Jiangsu",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/IVDC-631/2022|EPI_ISL_16277970|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16277970",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4567/2022|EPI_ISL_16283873|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16283873",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4568/2022|EPI_ISL_16283874|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16283874",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4569/2022|EPI_ISL_16283875|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16283875",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4570/2022|EPI_ISL_16283876|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16283876",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4571/2022|EPI_ISL_16283877|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16283877",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4572/2022|EPI_ISL_16283879|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16283879",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4573/2022|EPI_ISL_16283880|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16283880",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4574/2022|EPI_ISL_16283881|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16283881",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4575/2022|EPI_ISL_16283882|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16283882",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4576/2022|EPI_ISL_16283883|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16283883",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2700/2022|EPI_ISL_16283956|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16283956",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2723/2022|EPI_ISL_16283957|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16283957",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2727/2022|EPI_ISL_16283958|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16283958",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2728/2022|EPI_ISL_16283959|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16283959",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2740/2022|EPI_ISL_16283960|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16283960",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2745/2022|EPI_ISL_16283961|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16283961",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2750/2022|EPI_ISL_16283962|2022-12-20",
+        "sampleDate": "2022-12-20",
+        "seqId": "EPI_ISL_16283962",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2778/2022|EPI_ISL_16283963|2022-12-20",
+        "sampleDate": "2022-12-20",
+        "seqId": "EPI_ISL_16283963",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2795/2022|EPI_ISL_16283964|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16283964",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2823/2022|EPI_ISL_16283965|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16283965",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2825/2022|EPI_ISL_16283966|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16283966",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2862/2022|EPI_ISL_16283967|2022-12-20",
+        "sampleDate": "2022-12-20",
+        "seqId": "EPI_ISL_16283967",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2826/2022|EPI_ISL_16283968|2022-12-20",
+        "sampleDate": "2022-12-20",
+        "seqId": "EPI_ISL_16283968",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2931/2022|EPI_ISL_16283969|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16283969",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2938/2022|EPI_ISL_16283970|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16283970",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2952/2022|EPI_ISL_16283971|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16283971",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2686/2022|EPI_ISL_16283972|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16283972",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2687/2022|EPI_ISL_16283973|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16283973",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-01-1/2022|EPI_ISL_16283974|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16283974",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-01-2/2022|EPI_ISL_16283975|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16283975",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-01-3/2022|EPI_ISL_16283976|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16283976",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2693/2022|EPI_ISL_16283977|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16283977",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-06-1/2022|EPI_ISL_16283978|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283978",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-06-2/2022|EPI_ISL_16283979|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283979",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-06-3/2022|EPI_ISL_16283980|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283980",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2697/2022|EPI_ISL_16283981|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16283981",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2698/2022|EPI_ISL_16283982|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283982",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2694/2022|EPI_ISL_16283983|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16283983",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2695/2022|EPI_ISL_16283984|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16283984",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2717/2022|EPI_ISL_16283985|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16283985",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2718/2022|EPI_ISL_16283986|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16283986",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-2719/2022|EPI_ISL_16283987|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16283987",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-ZZ31371/2022|EPI_ISL_16283988|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16283988",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-ZZ31372/2022|EPI_ISL_16283989|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16283989",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-ZZ31373/2022|EPI_ISL_16283990|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16283990",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-ZZ31374/2022|EPI_ISL_16283991|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16283991",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3189/2022|EPI_ISL_16283992|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283992",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3190/2022|EPI_ISL_16283993|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283993",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3191/2022|EPI_ISL_16283994|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283994",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3192/2022|EPI_ISL_16283995|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283995",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3193/2022|EPI_ISL_16283996|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283996",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3194/2022|EPI_ISL_16283997|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283997",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3195/2022|EPI_ISL_16283998|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283998",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3196/2022|EPI_ISL_16283999|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16283999",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3197/2022|EPI_ISL_16284000|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284000",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3198/2022|EPI_ISL_16284001|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284001",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3199/2022|EPI_ISL_16284002|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284002",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3200/2022|EPI_ISL_16284003|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284003",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3201/2022|EPI_ISL_16284004|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284004",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3202/2022|EPI_ISL_16284005|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284005",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3203/2022|EPI_ISL_16284006|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284006",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3204/2022|EPI_ISL_16284007|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284007",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3205/2022|EPI_ISL_16284008|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284008",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3206/2022|EPI_ISL_16284009|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284009",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3207/2022|EPI_ISL_16284010|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284010",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/3208/2022|EPI_ISL_16284011|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16284011",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4543/2022|EPI_ISL_16306914|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16306914",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4544/2022|EPI_ISL_16306915|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16306915",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4545/2022|EPI_ISL_16306916|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16306916",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4546/2022|EPI_ISL_16306917|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16306917",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4547/2022|EPI_ISL_16306918|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16306918",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4550/2022|EPI_ISL_16306919|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16306919",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4551/2022|EPI_ISL_16306920|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16306920",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4552/2022|EPI_ISL_16306921|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16306921",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4553/2022|EPI_ISL_16306922|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16306922",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4554/2022|EPI_ISL_16306923|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16306923",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4376/2022|EPI_ISL_16306924|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16306924",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4379/2022|EPI_ISL_16306925|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16306925",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4386/2022|EPI_ISL_16306926|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16306926",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4389/2022|EPI_ISL_16306927|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16306927",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4408/2022|EPI_ISL_16306928|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16306928",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4412/2022|EPI_ISL_16306929|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16306929",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4416/2022|EPI_ISL_16306930|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16306930",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4515/2022|EPI_ISL_16306931|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16306931",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4525/2022|EPI_ISL_16306932|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16306932",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Sichuan/SCDCP-4530/2022|EPI_ISL_16306933|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16306933",
+        "location": "Sichuan",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-1/2022|EPI_ISL_16306934|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306934",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-2/2022|EPI_ISL_16306935|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306935",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-3/2022|EPI_ISL_16306936|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306936",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-4/2022|EPI_ISL_16306937|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16306937",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-5/2022|EPI_ISL_16306938|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306938",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-7/2022|EPI_ISL_16306939|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16306939",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-8/2022|EPI_ISL_16306940|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16306940",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-10/2022|EPI_ISL_16306941|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306941",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-11/2022|EPI_ISL_16306942|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306942",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-12/2022|EPI_ISL_16306943|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306943",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-13/2022|EPI_ISL_16306944|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306944",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-14/2022|EPI_ISL_16306945|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306945",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-15/2022|EPI_ISL_16306946|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306946",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-16/2022|EPI_ISL_16306947|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306947",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-17/2022|EPI_ISL_16306948|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306948",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-18/2022|EPI_ISL_16306949|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306949",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-19/2022|EPI_ISL_16306950|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16306950",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-20/2022|EPI_ISL_16306951|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16306951",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-21/2022|EPI_ISL_16306952|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16306952",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-22/2022|EPI_ISL_16306953|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16306953",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-23/2022|EPI_ISL_16306954|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306954",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-24/2022|EPI_ISL_16306955|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306955",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-25/2022|EPI_ISL_16306956|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306956",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-26/2022|EPI_ISL_16306957|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306957",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-27/2022|EPI_ISL_16306958|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306958",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-28/2022|EPI_ISL_16306959|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16306959",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-29/2022|EPI_ISL_16306960|2022-12-07",
+        "sampleDate": "2022-12-07",
+        "seqId": "EPI_ISL_16306960",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-31/2022|EPI_ISL_16306961|2022-12-07",
+        "sampleDate": "2022-12-07",
+        "seqId": "EPI_ISL_16306961",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-32/2022|EPI_ISL_16306962|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16306962",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-33/2022|EPI_ISL_16306963|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16306963",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-34/2022|EPI_ISL_16306964|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16306964",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-35/2022|EPI_ISL_16306965|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16306965",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-36/2022|EPI_ISL_16306966|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16306966",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-37/2022|EPI_ISL_16306967|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16306967",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-38/2022|EPI_ISL_16306968|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16306968",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-39/2022|EPI_ISL_16306969|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16306969",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-40/2022|EPI_ISL_16306970|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16306970",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-41/2022|EPI_ISL_16306971|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16306971",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-42/2022|EPI_ISL_16306972|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16306972",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-44/2022|EPI_ISL_16306974|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16306974",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-45/2022|EPI_ISL_16306975|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16306975",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7.3",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-46/2022|EPI_ISL_16306976|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16306976",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-47/2022|EPI_ISL_16306977|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16306977",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-48/2022|EPI_ISL_16306978|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16306978",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-49/2022|EPI_ISL_16306979|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16306979",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234361/2022|EPI_ISL_16327392|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327392",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234389/2022|EPI_ISL_16327393|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327393",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234423/2022|EPI_ISL_16327394|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327394",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.2",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234464/2022|EPI_ISL_16327397|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327397",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234475/2022|EPI_ISL_16327403|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327403",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234481/2022|EPI_ISL_16327404|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327404",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.10.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234482/2022|EPI_ISL_16327405|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327405",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234487/2022|EPI_ISL_16327407|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16327407",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234489/2022|EPI_ISL_16327409|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16327409",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234490/2022|EPI_ISL_16327410|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16327410",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234504/2022|EPI_ISL_16327418|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327418",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234539/2022|EPI_ISL_16327420|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327420",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234542/2022|EPI_ISL_16327421|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327421",
+        "location": "Shanghai",
+        "clade": "21L (Omicron)",
+        "pangoLineages": "CM.5.1",
+        "nextStrainClade": "21L",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234561/2022|EPI_ISL_16327425|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327425",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234620/2022|EPI_ISL_16327430|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327430",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234672/2022|EPI_ISL_16327431|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327431",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234721/2022|EPI_ISL_16327433|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327433",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234786/2022|EPI_ISL_16327436|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327436",
+        "location": "Shanghai",
+        "clade": "recombinant",
+        "pangoLineages": "XBC.1",
+        "nextStrainClade": "recombinant",
+        "whoClade": "recombinant"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234789/2022|EPI_ISL_16327437|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327437",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234792/2022|EPI_ISL_16327438|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327438",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234793/2022|EPI_ISL_16327439|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327439",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.5",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234820/2022|EPI_ISL_16327440|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327440",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234821/2022|EPI_ISL_16327441|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327441",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234822/2022|EPI_ISL_16327442|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327442",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234832/2022|EPI_ISL_16327443|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327443",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234834/2022|EPI_ISL_16327445|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327445",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234835/2022|EPI_ISL_16327446|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16327446",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.21",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234836/2022|EPI_ISL_16327447|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327447",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234840/2022|EPI_ISL_16327449|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327449",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234867/2022|EPI_ISL_16327450|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327450",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234868/2022|EPI_ISL_16327451|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327451",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234872/2022|EPI_ISL_16327452|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327452",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234875/2022|EPI_ISL_16327453|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327453",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.6",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234876/2022|EPI_ISL_16327454|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327454",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.6",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234878/2022|EPI_ISL_16327455|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327455",
+        "location": "Shanghai",
+        "clade": "21L (Omicron)",
+        "pangoLineages": "BA.2",
+        "nextStrainClade": "21L",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234917/2022|EPI_ISL_16327458|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16327458",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.11",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234921/2022|EPI_ISL_16327459|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327459",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.11",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234922/2022|EPI_ISL_16327460|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327460",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.6",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234923/2022|EPI_ISL_16327461|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16327461",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.3.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234993/2022|EPI_ISL_16327466|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327466",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.8",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-234994/2022|EPI_ISL_16327467|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327467",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.26",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235014/2022|EPI_ISL_16327468|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327468",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235015/2022|EPI_ISL_16327469|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327469",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.11.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235030/2022|EPI_ISL_16327470|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327470",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235031/2022|EPI_ISL_16327471|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327471",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235032/2022|EPI_ISL_16327472|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327472",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235033/2022|EPI_ISL_16327473|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327473",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235034/2022|EPI_ISL_16327474|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327474",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235035/2022|EPI_ISL_16327475|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327475",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235036/2022|EPI_ISL_16327476|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327476",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.2",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235154-2/2022|EPI_ISL_16327477|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327477",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.6",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235164/2022|EPI_ISL_16327478|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16327478",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BL.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235170/2022|EPI_ISL_16327479|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327479",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235174/2022|EPI_ISL_16327480|2022-12-07",
+        "sampleDate": "2022-12-07",
+        "seqId": "EPI_ISL_16327480",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235175/2022|EPI_ISL_16327481|2022-12-07",
+        "sampleDate": "2022-12-07",
+        "seqId": "EPI_ISL_16327481",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235279/2022|EPI_ISL_16327483|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327483",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.11",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235301/2022|EPI_ISL_16327485|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16327485",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235302/2022|EPI_ISL_16327486|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327486",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235305/2022|EPI_ISL_16327487|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327487",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235306/2022|EPI_ISL_16327488|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327488",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235307/2022|EPI_ISL_16327489|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327489",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235311/2022|EPI_ISL_16327490|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327490",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235314/2022|EPI_ISL_16327491|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327491",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235315-2/2022|EPI_ISL_16327492|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327492",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235316/2022|EPI_ISL_16327493|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327493",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235319/2022|EPI_ISL_16327494|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327494",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.9",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235321/2022|EPI_ISL_16327495|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327495",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235325/2022|EPI_ISL_16327496|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16327496",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235327/2022|EPI_ISL_16327497|2022-12-07",
+        "sampleDate": "2022-12-07",
+        "seqId": "EPI_ISL_16327497",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235328/2022|EPI_ISL_16327498|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16327498",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235346/2022|EPI_ISL_16327499|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327499",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.14",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235353/2022|EPI_ISL_16327500|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327500",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235412/2022|EPI_ISL_16327501|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327501",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235418/2022|EPI_ISL_16327502|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327502",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BE.1.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235428/2022|EPI_ISL_16327503|2022-12-03",
+        "sampleDate": "2022-12-03",
+        "seqId": "EPI_ISL_16327503",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.13",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235447/2022|EPI_ISL_16327504|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327504",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235460/2022|EPI_ISL_16327505|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327505",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235461/2022|EPI_ISL_16327506|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327506",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235462/2022|EPI_ISL_16327507|2022-12-02",
+        "sampleDate": "2022-12-02",
+        "seqId": "EPI_ISL_16327507",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235480/2022|EPI_ISL_16327508|2022-12-01",
+        "sampleDate": "2022-12-01",
+        "seqId": "EPI_ISL_16327508",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235483/2022|EPI_ISL_16327509|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327509",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1.4",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235538/2022|EPI_ISL_16327510|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327510",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235544/2022|EPI_ISL_16327511|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327511",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235557/2022|EPI_ISL_16327512|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327512",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.2",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235580/2022|EPI_ISL_16327513|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327513",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7.12",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235607/2022|EPI_ISL_16327514|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327514",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235613/2022|EPI_ISL_16327515|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327515",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235614/2022|EPI_ISL_16327516|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327516",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235615/2022|EPI_ISL_16327517|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327517",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235616/2022|EPI_ISL_16327518|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327518",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235618/2022|EPI_ISL_16327519|2022-12-07",
+        "sampleDate": "2022-12-07",
+        "seqId": "EPI_ISL_16327519",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235621/2022|EPI_ISL_16327520|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16327520",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235813/2022|EPI_ISL_16327521|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327521",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235817/2022|EPI_ISL_16327522|2022-12-07",
+        "sampleDate": "2022-12-07",
+        "seqId": "EPI_ISL_16327522",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BW.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235818/2022|EPI_ISL_16327523|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327523",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235819/2022|EPI_ISL_16327524|2022-12-07",
+        "sampleDate": "2022-12-07",
+        "seqId": "EPI_ISL_16327524",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7.12",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235825/2022|EPI_ISL_16327525|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327525",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235831/2022|EPI_ISL_16327526|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327526",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235833/2022|EPI_ISL_16327527|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327527",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235841/2022|EPI_ISL_16327528|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327528",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235846/2022|EPI_ISL_16327529|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327529",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235853/2022|EPI_ISL_16327530|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327530",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235856/2022|EPI_ISL_16327531|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327531",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235859/2022|EPI_ISL_16327532|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327532",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235862/2022|EPI_ISL_16327533|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327533",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235864/2022|EPI_ISL_16327534|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16327534",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235866/2022|EPI_ISL_16327535|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327535",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235868/2022|EPI_ISL_16327536|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327536",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.3",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235869/2022|EPI_ISL_16327537|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327537",
+        "location": "Shanghai",
+        "clade": "21L (Omicron)",
+        "pangoLineages": "BA.2.3.20",
+        "nextStrainClade": "21L",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235871/2022|EPI_ISL_16327538|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327538",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235872/2022|EPI_ISL_16327539|2022-12-05",
+        "sampleDate": "2022-12-05",
+        "seqId": "EPI_ISL_16327539",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235876/2022|EPI_ISL_16327540|2022-12-07",
+        "sampleDate": "2022-12-07",
+        "seqId": "EPI_ISL_16327540",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235877/2022|EPI_ISL_16327541|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327541",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235878/2022|EPI_ISL_16327542|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327542",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235879/2022|EPI_ISL_16327543|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327543",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.7",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235882/2022|EPI_ISL_16327544|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327544",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235884/2022|EPI_ISL_16327545|2022-12-04",
+        "sampleDate": "2022-12-04",
+        "seqId": "EPI_ISL_16327545",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235933/2022|EPI_ISL_16327546|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327546",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.6",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235935/2022|EPI_ISL_16327547|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327547",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.2",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235980/2022|EPI_ISL_16327548|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327548",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235981/2022|EPI_ISL_16327549|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327549",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235985/2022|EPI_ISL_16327550|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327550",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235986/2022|EPI_ISL_16327551|2022-12-06",
+        "sampleDate": "2022-12-06",
+        "seqId": "EPI_ISL_16327551",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235988/2022|EPI_ISL_16327552|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327552",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235990/2022|EPI_ISL_16327553|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327553",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7.12",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-235999/2022|EPI_ISL_16327554|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327554",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236018/2022|EPI_ISL_16327555|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327555",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.18",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236020/2022|EPI_ISL_16327556|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327556",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236023/2022|EPI_ISL_16327557|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327557",
+        "location": "Shanghai",
+        "clade": "22A (Omicron)",
+        "pangoLineages": "BA.4.6",
+        "nextStrainClade": "22A",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236047/2022|EPI_ISL_16327558|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327558",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.35",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236048/2022|EPI_ISL_16327559|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327559",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236060/2022|EPI_ISL_16327560|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327560",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236063/2022|EPI_ISL_16327561|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327561",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236137/2022|EPI_ISL_16327562|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16327562",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236143/2022|EPI_ISL_16327563|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327563",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236166/2022|EPI_ISL_16327564|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16327564",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236169/2022|EPI_ISL_16327565|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327565",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236175/2022|EPI_ISL_16327566|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327566",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236190/2022|EPI_ISL_16327567|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327567",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.14",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236220/2022|EPI_ISL_16327568|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327568",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.18",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236221/2022|EPI_ISL_16327569|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327569",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236230/2022|EPI_ISL_16327570|2022-12-07",
+        "sampleDate": "2022-12-07",
+        "seqId": "EPI_ISL_16327570",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "CH.1.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236323-2/2022|EPI_ISL_16327571|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327571",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236325/2022|EPI_ISL_16327572|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16327572",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.6",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236326/2022|EPI_ISL_16327573|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327573",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236349/2022|EPI_ISL_16327574|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327574",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7.8",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236353/2022|EPI_ISL_16327575|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16327575",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.23",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236360/2022|EPI_ISL_16327576|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16327576",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236444/2022|EPI_ISL_16327577|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327577",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.10",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236448/2022|EPI_ISL_16327578|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327578",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236453/2022|EPI_ISL_16327579|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327579",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236468/2022|EPI_ISL_16327580|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327580",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236470/2022|EPI_ISL_16327581|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327581",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7.12",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236472/2022|EPI_ISL_16327582|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327582",
+        "location": "Shanghai",
+        "clade": "21L (Omicron)",
+        "pangoLineages": "CM.3",
+        "nextStrainClade": "21L",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236476/2022|EPI_ISL_16327583|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327583",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.3",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236564/2022|EPI_ISL_16327584|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327584",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.27",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236582/2022|EPI_ISL_16327585|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327585",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236583/2022|EPI_ISL_16327586|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327586",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236585/2022|EPI_ISL_16327587|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16327587",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.35",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236590/2022|EPI_ISL_16327588|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16327588",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236591/2022|EPI_ISL_16327589|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327589",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7.4",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236592/2022|EPI_ISL_16327590|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327590",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "CH.1.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236595/2022|EPI_ISL_16327591|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327591",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.9",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236596/2022|EPI_ISL_16327592|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327592",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236613/2022|EPI_ISL_16327593|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327593",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236619/2022|EPI_ISL_16327594|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16327594",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "CH.1.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236621/2022|EPI_ISL_16327595|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327595",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "CH.1.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236682/2022|EPI_ISL_16327596|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16327596",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236690/2022|EPI_ISL_16327597|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16327597",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.3",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236700/2022|EPI_ISL_16327598|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16327598",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "CH.1.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236706/2022|EPI_ISL_16327599|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327599",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.5",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236707/2022|EPI_ISL_16327600|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327600",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1.5",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236719/2022|EPI_ISL_16327601|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327601",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236720/2022|EPI_ISL_16327602|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327602",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7.6",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236723/2022|EPI_ISL_16327603|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327603",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236733/2022|EPI_ISL_16327604|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16327604",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236738/2022|EPI_ISL_16327605|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16327605",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236739/2022|EPI_ISL_16327606|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16327606",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7.6",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236740/2022|EPI_ISL_16327607|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327607",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236743/2022|EPI_ISL_16327608|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327608",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236749/2022|EPI_ISL_16327609|2022-12-18",
+        "sampleDate": "2022-12-18",
+        "seqId": "EPI_ISL_16327609",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236752/2022|EPI_ISL_16327610|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327610",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236755/2022|EPI_ISL_16327611|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327611",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.18",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236760/2022|EPI_ISL_16327612|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327612",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236770/2022|EPI_ISL_16327613|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16327613",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236853/2022|EPI_ISL_16327614|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327614",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236854/2022|EPI_ISL_16327615|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327615",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236876/2022|EPI_ISL_16327616|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327616",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236879/2022|EPI_ISL_16327617|2022-12-08",
+        "sampleDate": "2022-12-08",
+        "seqId": "EPI_ISL_16327617",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236881/2022|EPI_ISL_16327618|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16327618",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236882/2022|EPI_ISL_16327619|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327619",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236884/2022|EPI_ISL_16327620|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327620",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236886/2022|EPI_ISL_16327621|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327621",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236889/2022|EPI_ISL_16327622|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327622",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236890/2022|EPI_ISL_16327623|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16327623",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236892/2022|EPI_ISL_16327624|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327624",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236900/2022|EPI_ISL_16327625|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327625",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BR.2.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236904/2022|EPI_ISL_16327626|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327626",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BE.9",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236907/2022|EPI_ISL_16327627|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327627",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.11",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236909/2022|EPI_ISL_16327628|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327628",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.11",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236910/2022|EPI_ISL_16327629|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327629",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236912/2022|EPI_ISL_16327630|2022-12-10",
+        "sampleDate": "2022-12-10",
+        "seqId": "EPI_ISL_16327630",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236913/2022|EPI_ISL_16327631|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327631",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1.5",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236922/2022|EPI_ISL_16327632|2022-12-18",
+        "sampleDate": "2022-12-18",
+        "seqId": "EPI_ISL_16327632",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.2",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-236950-2/2022|EPI_ISL_16327633|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16327633",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "CH.1.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237018/2022|EPI_ISL_16327634|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16327634",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.2",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237024/2022|EPI_ISL_16327635|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327635",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237068/2022|EPI_ISL_16327636|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327636",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "CH.1.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237069/2022|EPI_ISL_16327637|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327637",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.8",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237071/2022|EPI_ISL_16327638|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327638",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.25",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237072/2022|EPI_ISL_16327639|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327639",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237075/2022|EPI_ISL_16327640|2022-12-18",
+        "sampleDate": "2022-12-18",
+        "seqId": "EPI_ISL_16327640",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237076/2022|EPI_ISL_16327641|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327641",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237078/2022|EPI_ISL_16327642|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327642",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237079/2022|EPI_ISL_16327643|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327643",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237081/2022|EPI_ISL_16327644|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327644",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237082/2022|EPI_ISL_16327645|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327645",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237087/2022|EPI_ISL_16327646|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327646",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237089/2022|EPI_ISL_16327647|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16327647",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237095/2022|EPI_ISL_16327648|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327648",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237096/2022|EPI_ISL_16327649|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327649",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "CJ.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237101/2022|EPI_ISL_16327650|2022-12-11",
+        "sampleDate": "2022-12-11",
+        "seqId": "EPI_ISL_16327650",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237103/2022|EPI_ISL_16327651|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327651",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237109/2022|EPI_ISL_16327652|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327652",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237112/2022|EPI_ISL_16327653|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327653",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237113/2022|EPI_ISL_16327654|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327654",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1.5",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237114/2022|EPI_ISL_16327655|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327655",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "CA.7",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237118/2022|EPI_ISL_16327656|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327656",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.1.10",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237124/2022|EPI_ISL_16327657|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327657",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1.4",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237126/2022|EPI_ISL_16327658|2022-12-12",
+        "sampleDate": "2022-12-12",
+        "seqId": "EPI_ISL_16327658",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BE.1.4.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237132/2022|EPI_ISL_16327659|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327659",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237137/2022|EPI_ISL_16327660|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16327660",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.27",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237142/2022|EPI_ISL_16327661|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16327661",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237146/2022|EPI_ISL_16327662|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327662",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237148/2022|EPI_ISL_16327663|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327663",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237149/2022|EPI_ISL_16327664|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16327664",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BN.1.3.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237152/2022|EPI_ISL_16327665|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327665",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237163/2022|EPI_ISL_16327666|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327666",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237165/2022|EPI_ISL_16327667|2022-12-18",
+        "sampleDate": "2022-12-18",
+        "seqId": "EPI_ISL_16327667",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.5",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237168/2022|EPI_ISL_16327668|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327668",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.34",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237176/2022|EPI_ISL_16327669|2022-12-09",
+        "sampleDate": "2022-12-09",
+        "seqId": "EPI_ISL_16327669",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237179/2022|EPI_ISL_16327670|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16327670",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.3",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237277/2022|EPI_ISL_16327671|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327671",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237278/2022|EPI_ISL_16327672|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327672",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237280/2022|EPI_ISL_16327673|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327673",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237293/2022|EPI_ISL_16327674|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327674",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237375/2022|EPI_ISL_16327675|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327675",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237381/2022|EPI_ISL_16327676|2022-12-13",
+        "sampleDate": "2022-12-13",
+        "seqId": "EPI_ISL_16327676",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237383/2022|EPI_ISL_16327677|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327677",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237385/2022|EPI_ISL_16327678|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327678",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237395/2022|EPI_ISL_16327679|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327679",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237396/2022|EPI_ISL_16327680|2022-12-15",
+        "sampleDate": "2022-12-15",
+        "seqId": "EPI_ISL_16327680",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237401/2022|EPI_ISL_16327681|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327681",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237402/2022|EPI_ISL_16327682|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327682",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.23",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237409/2022|EPI_ISL_16327683|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16327683",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237412/2022|EPI_ISL_16327684|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16327684",
+        "location": "Shanghai",
+        "clade": "22F (Omicron)",
+        "pangoLineages": "XBB.1",
+        "nextStrainClade": "22F",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237427/2022|EPI_ISL_16327685|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16327685",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.8",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237441/2022|EPI_ISL_16327686|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16327686",
+        "location": "Shanghai",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237442/2022|EPI_ISL_16327687|2022-12-16",
+        "sampleDate": "2022-12-16",
+        "seqId": "EPI_ISL_16327687",
+        "location": "Shanghai",
+        "clade": "22D (Omicron)",
+        "pangoLineages": "BR.2.1",
+        "nextStrainClade": "22D",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237583/2022|EPI_ISL_16327688|2022-12-20",
+        "sampleDate": "2022-12-20",
+        "seqId": "EPI_ISL_16327688",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Shanghai/SJTU-237682/2022|EPI_ISL_16327689|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16327689",
+        "location": "Shanghai",
+        "clade": "22E (Omicron)",
+        "pangoLineages": "BQ.1.22",
+        "nextStrainClade": "22E",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/LY-2610/2022|EPI_ISL_16334605|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16334605",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/LY-2611/2022|EPI_ISL_16334606|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16334606",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/LY-2612/2022|EPI_ISL_16334607|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16334607",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/LY-2613/2022|EPI_ISL_16334608|2022-12-17",
+        "sampleDate": "2022-12-17",
+        "seqId": "EPI_ISL_16334608",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-1/2022|EPI_ISL_16334609|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16334609",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-3/2022|EPI_ISL_16334610|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16334610",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-4/2022|EPI_ISL_16334611|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16334611",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-5/2022|EPI_ISL_16334612|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16334612",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-11/2022|EPI_ISL_16334613|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334613",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-12/2022|EPI_ISL_16334614|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334614",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-13/2022|EPI_ISL_16334615|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334615",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-14/2022|EPI_ISL_16334616|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334616",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-15/2022|EPI_ISL_16334617|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334617",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-17/2022|EPI_ISL_16334618|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334618",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-21/2022|EPI_ISL_16334619|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334619",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-22/2022|EPI_ISL_16334620|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334620",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-23/2022|EPI_ISL_16334621|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334621",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-24/2022|EPI_ISL_16334622|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334622",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-25/2022|EPI_ISL_16334623|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334623",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-26/2022|EPI_ISL_16334624|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334624",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-31/2022|EPI_ISL_16334625|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16334625",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-32/2022|EPI_ISL_16334626|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16334626",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-33/2022|EPI_ISL_16334627|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16334627",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-34/2022|EPI_ISL_16334628|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16334628",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-35/2022|EPI_ISL_16334629|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16334629",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-36/2022|EPI_ISL_16334630|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16334630",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-42/2022|EPI_ISL_16334631|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334631",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-44/2022|EPI_ISL_16334632|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334632",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Fujian/FPCDCP-45/2022|EPI_ISL_16334633|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16334633",
+        "location": "Fujian",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Zhejiang/ZPCDCP-HZWAP/2022|EPI_ISL_16337105|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16337105",
+        "location": "Zhejiang",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Zhejiang/ZPCDCP-HSXQX/2022|EPI_ISL_16337107|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16337107",
+        "location": "Zhejiang",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Zhejiang/ZPCDCP-HSWDM/2022|EPI_ISL_16337110|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16337110",
+        "location": "Zhejiang",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Zhejiang/ZPCDCP-ZSSSF/2022|EPI_ISL_16337114|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16337114",
+        "location": "Zhejiang",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Zhejiang/ZPCDCP-ZSLGP/2022|EPI_ISL_16337115|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16337115",
+        "location": "Zhejiang",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Zhejiang/ZPCDCP-ZSSQF/2022|EPI_ISL_16337116|2022-12-14",
+        "sampleDate": "2022-12-14",
+        "seqId": "EPI_ISL_16337116",
+        "location": "Zhejiang",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Zhejiang/ZPCDCP-JHXYY/2022|EPI_ISL_16337125|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16337125",
+        "location": "Zhejiang",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Zhejiang/ZPCDCP-JHFC/2022|EPI_ISL_16337142|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16337142",
+        "location": "Zhejiang",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Zhejiang/ZPCDCP-JHWMJ/2022|EPI_ISL_16337214|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16337214",
+        "location": "Zhejiang",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Zhejiang/ZPCDCP-JHSAY/2022|EPI_ISL_16337215|2022-12-21",
+        "sampleDate": "2022-12-21",
+        "seqId": "EPI_ISL_16337215",
+        "location": "Zhejiang",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-50/2022|EPI_ISL_16348503|2022-12-23",
+        "sampleDate": "2022-12-23",
+        "seqId": "EPI_ISL_16348503",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-51/2022|EPI_ISL_16348504|2022-12-23",
+        "sampleDate": "2022-12-23",
+        "seqId": "EPI_ISL_16348504",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-52/2022|EPI_ISL_16348505|2022-12-23",
+        "sampleDate": "2022-12-23",
+        "seqId": "EPI_ISL_16348505",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-53/2022|EPI_ISL_16348506|2022-12-23",
+        "sampleDate": "2022-12-23",
+        "seqId": "EPI_ISL_16348506",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-54/2022|EPI_ISL_16348507|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16348507",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2.1",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-55/2022|EPI_ISL_16348508|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16348508",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-56/2022|EPI_ISL_16348509|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16348509",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-57/2022|EPI_ISL_16348510|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16348510",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-58/2022|EPI_ISL_16348511|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16348511",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-59/2022|EPI_ISL_16348512|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16348512",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-60/2022|EPI_ISL_16348513|2022-12-22",
+        "sampleDate": "2022-12-22",
+        "seqId": "EPI_ISL_16348513",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-61/2022|EPI_ISL_16348514|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16348514",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-62/2022|EPI_ISL_16348515|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16348515",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BA.5.2",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-63/2022|EPI_ISL_16348516|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16348516",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-64/2022|EPI_ISL_16348517|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16348517",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-65/2022|EPI_ISL_16348518|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16348518",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-66/2022|EPI_ISL_16348519|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16348519",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-67/2022|EPI_ISL_16348520|2022-12-19",
+        "sampleDate": "2022-12-19",
+        "seqId": "EPI_ISL_16348520",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-68/2022|EPI_ISL_16348521|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16348521",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    },
+    {
+        "seqName": "hCoV-19/Beijing/CPL-12-69/2022|EPI_ISL_16348522|2022-12-24",
+        "sampleDate": "2022-12-24",
+        "seqId": "EPI_ISL_16348522",
+        "location": "Beijing",
+        "clade": "22B (Omicron)",
+        "pangoLineages": "BF.7",
+        "nextStrainClade": "22B",
+        "whoClade": "Omicron"
+    }
+]
