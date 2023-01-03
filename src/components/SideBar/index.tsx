@@ -3,6 +3,8 @@ import dayjs from "dayjs";
 import { useAtom } from "jotai";
 import PROVINCES from "../../definitions/provinces";
 import DataState, { ALL_DATA } from "../../state/data";
+import { ChartTypeState } from "../../state/chart";
+import { ChartType, ChartTypeOptions } from "../../definitions/chart";
 import styles from "./index.module.scss";
 
 const SideBar: React.FC = () => {
@@ -10,6 +12,7 @@ const SideBar: React.FC = () => {
     const [startDate, setStartDate] = useState("2022-12-01");
     const [endDate, setEndDate] = useState(dayjs().format("YYYY-MM-DD"));
     const [area, setArea] = useState("All");
+    const [chartType, setChartType] = useAtom(ChartTypeState);
     useEffect(() => {
         const startTime = dayjs(startDate).valueOf();
         const endTime = dayjs(endDate).valueOf();
@@ -67,6 +70,27 @@ const SideBar: React.FC = () => {
                             }}
                         >
                             {PROVINCES.map((item) => {
+                                const { value, label } = item;
+                                return (
+                                    <option value={value} key={value}>
+                                        {label}
+                                    </option>
+                                );
+                            })}
+                        </select>
+                    </div>
+                </div>
+                <div className={styles.divider}></div>
+                <div className={styles.formItem}>
+                    <div className={styles.label}>图标类型</div>
+                    <div className={styles.field}>
+                        <select
+                            value={chartType}
+                            onChange={(e) => {
+                                setChartType(+e.target.value);
+                            }}
+                        >
+                            {ChartTypeOptions.map((item) => {
                                 const { value, label } = item;
                                 return (
                                     <option value={value} key={value}>
