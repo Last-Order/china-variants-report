@@ -2,8 +2,7 @@ import React, { useEffect, useState } from "react";
 import dayjs from "dayjs";
 import { useAtom } from "jotai";
 import PROVINCES from "../../definitions/provinces";
-import DataState from "../../state/data";
-import ALL_DATA from "../../data/all.json";
+import DataState, { ALL_DATA } from "../../state/data";
 import styles from "./index.module.scss";
 
 const SideBar: React.FC = () => {
@@ -26,7 +25,6 @@ const SideBar: React.FC = () => {
                 location === area
             );
         });
-        console.log(filteredData);
         setData(filteredData);
     }, [startDate, endDate, area]);
     return (

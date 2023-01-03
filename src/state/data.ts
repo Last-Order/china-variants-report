@@ -1,7 +1,7 @@
 import { atom } from "jotai";
-import ALL_DATA from "../data/all.json";
+import ALL_DATA_CSV from "../data/all.csv";
 
-interface Sequence {
+export interface Sequence {
     seqName: string;
     sampleDate: string;
     seqId: string;
@@ -12,6 +12,8 @@ interface Sequence {
     whoClade: string;
 }
 
-const DataState = atom<Sequence[]>(ALL_DATA);
+const DataState = atom(ALL_DATA_CSV as Sequence[]);
+
+export const ALL_DATA = ALL_DATA_CSV as Sequence[];
 
 export default DataState;
