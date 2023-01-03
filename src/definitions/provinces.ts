@@ -128,7 +128,7 @@ const PROVINCES = [
         label: "新疆",
     },
     {
-        value: "Hong Kong",
+        value: "Hong_Kong",
         label: "香港",
     },
     {
