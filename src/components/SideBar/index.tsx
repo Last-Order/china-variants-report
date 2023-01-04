@@ -40,7 +40,7 @@ const SideBar: React.FC = () => {
                             type="date"
                             id="start"
                             value={startDate}
-                            min="2022-12-01"
+                            min="2022-11-15"
                             onChange={(e) => {
                                 setStartDate(e.target.value);
                             }}
