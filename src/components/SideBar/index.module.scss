@@ -21,6 +21,10 @@
 .field {
     display: flex;
     margin-top: 0.08rem;
+
+    select {
+        width: 100%;
+    }
 }
 
 .divider {

@@ -13,3 +13,19 @@ export const ChartTypeOptions = [
         label: "百分比柱状图（按周）",
     },
 ];
+
+export enum CategoryType {
+    LINEAGE = 0,
+    CLADE = 1,
+}
+
+export const CategoryTypeOptions = [
+    {
+        value: CategoryType.LINEAGE,
+        label: "Pango lineage",
+    },
+    {
+        value: CategoryType.CLADE,
+        label: "Clade",
+    },
+];

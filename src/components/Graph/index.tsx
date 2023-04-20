@@ -5,9 +5,9 @@ import dayjs from "dayjs";
 import weekOfYear from "dayjs/plugin/weekOfYear";
 import { Column, ColumnConfig, G2 } from "@ant-design/plots";
 import DataState from "../../state/data";
-import { ChartTypeState } from "../../state/chart";
+import { CategoryTypeState, ChartTypeState } from "../../state/chart";
 import styles from "./index.module.scss";
-import { ChartType } from "../../definitions/chart";
+import { CategoryType, ChartType } from "../../definitions/chart";
 
 dayjs.extend(weekOfYear);
 
@@ -29,8 +29,13 @@ G2.registerInteraction("element-link", {
 const Graph: React.FC = () => {
     const [data] = useAtom(DataState);
     const [chartType] = useAtom(ChartTypeState);
+    const [categoryType] = useAtom(CategoryTypeState);
+
     const simpleColumnConfig = useMemo<ColumnConfig>(() => {
-        const count = countBy(data, "pangoLineages");
+        const count = countBy(
+            data,
+            categoryType === CategoryType.LINEAGE ? "pangoLineages" : "clade"
+        );
         const columns = Object.entries(count)
             .map(([lineages, c]) => ({
                 lineages,
@@ -55,15 +60,18 @@ const Graph: React.FC = () => {
                 position: "top",
             },
         };
-    }, [data]);
+    }, [data, categoryType]);
+
     const percentStackedAreaConfig = useMemo<ColumnConfig>(() => {
         const d = groupBy(data, (i) => {
             const t = dayjs(i.sampleDate);
             return t.year() * 100 + t.week();
-            return `${t.year()}年第${t.week()}周`;
         });
         const e = Object.entries(d).map(([week, items]) => {
-            const countByLineages = countBy(items, "pangoLineages");
+            const countByLineages = countBy(
+                items,
+                categoryType === CategoryType.LINEAGE ? "pangoLineages" : "clade"
+            );
             return Object.entries(countByLineages).map(([lineage, count]) => ({
                 count,
                 lineage,
@@ -105,12 +113,13 @@ const Graph: React.FC = () => {
                 },
             ],
         };
-    }, [data]);
+    }, [data, categoryType]);
+
     if (!data?.length) {
         return <div className={styles.noData}>暂无数据</div>;
     }
     return (
-        <div className={styles.container} key={chartType}>
+        <div className={styles.container} key={chartType + categoryType}>
             <Column
                 {...(chartType === ChartType.SIMPLE_COLUMN
                     ? simpleColumnConfig

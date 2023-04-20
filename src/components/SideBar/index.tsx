@@ -3,8 +3,8 @@ import dayjs from "dayjs";
 import { useAtom } from "jotai";
 import PROVINCES from "../../definitions/provinces";
 import DataState, { ALL_DATA } from "../../state/data";
-import { ChartTypeState } from "../../state/chart";
-import { ChartType, ChartTypeOptions } from "../../definitions/chart";
+import { CategoryTypeState, ChartTypeState } from "../../state/chart";
+import { ChartTypeOptions, CategoryTypeOptions } from "../../definitions/chart";
 import styles from "./index.module.scss";
 
 const SideBar: React.FC = () => {
@@ -13,6 +13,8 @@ const SideBar: React.FC = () => {
     const [endDate, setEndDate] = useState(dayjs().format("YYYY-MM-DD"));
     const [area, setArea] = useState("All");
     const [chartType, setChartType] = useAtom(ChartTypeState);
+    const [categoryType, setCategoryType] = useAtom(CategoryTypeState);
+
     useEffect(() => {
         const startTime = dayjs(startDate).valueOf();
         const endTime = dayjs(endDate).valueOf();
@@ -91,6 +93,26 @@ const SideBar: React.FC = () => {
                             }}
                         >
                             {ChartTypeOptions.map((item) => {
+                                const { value, label } = item;
+                                return (
+                                    <option value={value} key={value}>
+                                        {label}
+                                    </option>
+                                );
+                            })}
+                        </select>
+                    </div>
+                </div>
+                <div className={styles.formItem}>
+                    <div className={styles.label}>分类粒度</div>
+                    <div className={styles.field}>
+                        <select
+                            value={categoryType}
+                            onChange={(e) => {
+                                setCategoryType(+e.target.value);
+                            }}
+                        >
+                            {CategoryTypeOptions.map((item) => {
                                 const { value, label } = item;
                                 return (
                                     <option value={value} key={value}>
